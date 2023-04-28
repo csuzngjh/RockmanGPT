@@ -2,7 +2,7 @@
 import langchain
 import soul.chatllm
 import soul.chinese_text_splitter
-
+import soul.pinyin_splitter
 
 
 class RockStudent:
