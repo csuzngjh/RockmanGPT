@@ -4,6 +4,7 @@ import soul.chatllm
 import soul.chinese_text_splitter
 
 
+
 class RockStudent:
     def __init__(self):
         self.ability = {'intelligence': 50, 'perseverance': 70, 'social_skill': 60}   
